@@ -1,0 +1,7 @@
+my:
+  greetings: Hello World from config server
+  list:
+    values: One, Two, Three, Four
+
+db:
+  connection: connecting-string-here-from-config-server
